@@ -1,0 +1,32 @@
+.progress {
+    &-bar {
+        height: 4px;
+        width: 100%;
+        background: lighten(map-get($colors, 'ldark'), 20%);
+        position: relative;
+        &--75 {
+            &:before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 75%;
+                background: map-get($colors, 'dark');
+                z-index: 1;
+            }
+        }
+        &--100 {
+            &:before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                background: map-get($colors, 'dark');
+                z-index: 1;
+            }
+        }
+    }
+}

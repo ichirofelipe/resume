@@ -1,0 +1,57 @@
+.border{
+    &-b{
+        &-floating{
+            &-1{
+                position: relative;
+                
+                &.floating-el-side{
+                    &:after{
+                        right: -40px;
+                        width: calc(100% + 40px);
+                    }
+                }
+
+                &:after{
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    width: 100%;
+                    right: 0;
+                    height: 1px;
+                    background-color: map-get($colors, 'ldark');
+                }
+            }
+            &-2{
+                position: relative;
+                
+                &.floating-el-side{
+                    &:after{
+                        right: -40px;
+                        width: calc(100% + 40px);
+                    }
+                }
+
+                &:after{
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    width: 100%;
+                    right: 0;
+                    height: 2px;
+                    background-color: map-get($colors, 'dark');
+                }
+            }
+        }
+
+        &-1{
+            border-bottom: 1px solid #000;
+        }
+        &-2{
+            border-bottom: 2px solid #000;
+        }
+    }
+
+    &-dwhite{
+        border-color: map-get($colors, 'dwhite');
+    }
+}

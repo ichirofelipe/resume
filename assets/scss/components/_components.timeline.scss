@@ -1,0 +1,19 @@
+.timeline{
+    &_additional{
+        padding-left: 15px;
+        border-left: 2px solid map-get($colors, 'dark');
+        position: relative;
+
+        &:before{
+            content: '';
+            position: absolute;
+            left: -1px;
+            top: 0;
+            width: 10px;
+            height: 10px;
+            background: map-get($colors, 'dark');
+            border-radius: 100%;
+            transform: translate(-50%, 0)
+        }
+    }
+}
