@@ -4,6 +4,11 @@ body, html {
   padding: 0;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 :root {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
@@ -13,8 +18,13 @@ body, html {
   max-width: 920px;
   width: 100%;
   display: block;
-  margin: 0 auto;
   border: 1px solid #434244;
+}
+
+#print {
+  margin-left: auto;
+  display: block;
+  width: fit-content;
 }
 
 .title {
@@ -69,6 +79,7 @@ body, html {
 
 .description {
   margin: 0;
+  display: block;
 }
 .description--sm {
   font-size: 12px;
@@ -283,8 +294,8 @@ body, html {
 }
 
 .progress-bar {
-  height: 4px;
-  width: 100%;
+  height: 4px !important;
+  width: 100% !important;
   background: #b4b4b5;
   position: relative;
 }
@@ -311,6 +322,10 @@ body, html {
 
 .list-style-none {
   list-style: none;
+}
+
+.info_bar {
+  color: #ccc;
 }
 
 /*# sourceMappingURL=style.css.map */
