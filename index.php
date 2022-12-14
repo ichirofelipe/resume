@@ -63,11 +63,11 @@
                         <ul class="info_list m-0 list-style-none">
                             <li class="border-b-2 border-dwhite pb-5">
                                 <span><!-- SVG ICON --></span>
-                                <p class="m-0 text--dark description description--sm">1323 Francesca Royale Condominium Old Sauyo Rd corner mindanao ave, Quezon City, 1116, Philippines.</p>
+                                <p class="m-0 text--dark description description--sm">2011 Balagtas Royale Mansions, Brgy 15 Zone 2, Pasay City 1306 Metro Manila.</p>
                             </li>
                             <li class="border-b-2 border-dwhite py-5 mb-5">
                                 <span><!-- SVG ICON --></span>
-                                <p class="m-0 text--dark description description--sm">0916-664-1576</p>
+                                <p class="m-0 text--dark description description--sm">0993-347-5702</p>
                             </li>
                             <li>
                                 <span><!-- SVG ICON --></span>
@@ -227,7 +227,7 @@
             margin:       0,
             filename:     'ichiro_resume.pdf',
             image:        { type: 'jpeg', quality: 0.98 },
-            html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 360, y: 0},
+            html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 530, y: 0},
             jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
             };
 
