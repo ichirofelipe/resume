@@ -81,24 +81,41 @@
                 <section class="info_block pt-30">
                     <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">Work Experience</h4>
                     <ul class="timeline p-0 m-0 pt-5">
+                        
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Alorica</strong>
-                                <p class="description text--ldark">Makati <br>Jan 2016 - Sep 2016</p>
+                                <strong class="description title title-sm family-arial text--dark mb-5">Play'n Go</strong>
+                                <p class="description text--ldark">Taguig <br>Feb 2023 - Present</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>TSR</strong>
-                                <p class="description">- Helping customer solve their issues about the services we offer. (Internet, TV, Telephone)</p>
+                                <strong>Frontend Game Developer</strong>
+                                <p class="description text--ldark">Integrating animations and 2d Artworks into the game using (TypeScript/JavaScript, Adobe Animate)</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Firstcom <br>Solutions</strong>
-                                <p class="description text--ldark">Mar 2019 - Dec 2019</p>
+                                <strong class="description title title-sm family-arial text--dark mb-5">Globals</strong>
+                                <p class="description text--ldark">Makati <br>Dec 2022 - Jan 2023</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>Freelance Frontend Developer</strong>
-                                <p class="description">Translating Web Designs/Wireframes into an actual working website (Opencart, CSS Bootstrap, Jquery)</p>
+                                <strong>FullStack Web Game Developer / HTML5 Game Developer</strong>
+                                <p class="description text--ldark">Creating slot games using (TypeScript, Pixi.js, LayaAir - "open-source 2D/3D engine")</p>
+                            </div>
+                        </li>
+                        <li class="timeline_inner grid grid-cols-3 mb-10">
+                            <div class="timeline_info cols-span-1">
+                                <strong class="description title title-sm family-arial text--dark mb-5">Alpha Gaming Arcade</strong>
+                                <p class="description text--ldark">Pasay <br>June 2022 - Dec 2022</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2">
+                                <strong>Full Stack Developer</strong>
+                                <p class="description text--ldark">Creating websites from scratch starting from database planning to UI/UX Development with HTML canvas animation (Node.js, native PHP, MSSQL/MYSQL, JS/TS, Pixi.js)</p>
+                                <br>
+                                <p class="description"><strong>Some of my projects here:</strong></p>
+                                <p class="description text--ldark">- Bookmark website (in my github)</p>
+                                <p class="description text--ldark">- multivendor website (in my github)</p>
+                                <p class="description text--ldark">- OMG betting game website</p>
+                                <p class="description text--ldark">- Slot Game (Ocean Story) (in my github)</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
@@ -118,20 +135,24 @@
                                 <p class="description text--ldark">- abrahamart.com</p>
                             </div>
                         </li>
-                        <li class="timeline_inner grid grid-cols-3 mb-10">
-                            <div class="timeline_info cols-span-1">
-                                <strong class="description title title-sm family-arial text--dark mb-5">88 Group</strong>
-                                <p class="description text--ldark">Pasay <br>June 2020 - Present</p>
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5">Firstcom <br>Solutions</strong>
+                                <p class="description text--ldark">Mar 2019 - Dec 2019</p>
                             </div>
-                            <div class="timeline_additional cols-span-2">
-                                <strong>Full Stack Developer</strong>
-                                <p class="description text--ldark">Creating websites from scratch starting from database planning to UI/UX Development with HTML canvas animation (Node.js, native PHP, MSSQL/MYSQL, JS/TS, Pixi.js)</p>
-                                <br>
-                                <p class="description"><strong>Some of my projects here:</strong></p>
-                                <p class="description text--ldark">- Bookmark website (in my github)</p>
-                                <p class="description text--ldark">- multivendor website (in my github)</p>
-                                <p class="description text--ldark">- OMG betting game website</p>
-                                <p class="description text--ldark">- Slot Game (Ocean Story) (in my github)</p>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Freelance Frontend Developer</strong>
+                                <p class="description text--ldark">Translating Web Designs/Wireframes into an actual working website (Opencart, CSS Bootstrap, Jquery)</p>
+                            </div>
+                        </li>
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5">Alorica</strong>
+                                <p class="description text--ldark">Makati <br>Jan 2016 - Sep 2016</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>TSR</strong>
+                                <p class="description text--ldark">- Helping customer solve their issues about the services we offer. (Internet, TV, Telephone)</p>
                             </div>
                         </li>
                     </ul>
