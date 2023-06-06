@@ -29,25 +29,25 @@
                     <h4 class="title title-md title-regular mt-0 mb-20">Personal Details</h4>
                     <div class="mb-20">
                         <strong>Date of birth</strong>
-                        <p class="description pl-5">Nov 16 1996</p>
+                        <p class="description">Nov 16 1996</p>
                     </div>
                     <div>
                         <strong>Nationality</strong>
-                        <p class="description pl-5">Filipino</p>
+                        <p class="description">Filipino</p>
                     </div>
                 </section>
 
                 <section class="info_bar">
                     <h4 class="title title-md title-regular mt-0 mb-20">References</h4>
                     <div class="mb-20">
-                        <strong class="title title-nm title-regular family-arial">Pedion D. Octavio</strong>
-                        <p class="description mb-10">ICT Faculty</p>
-                        <p class="description"><strong>Contact #:</strong> 09777604481</p>
+                        <strong class="title title-sm family-arial">Pedion D. Octavio</strong>
+                        <small class="description"><i>ICT Faculty</i></small>
+                        <p class="description">09777604481</p>
                     </div>
                     <div class="mb-2">
-                        <strong class="title title-nm title-regular family-arial">Chris Navarroza</strong>
-                        <p class="description mb-10">Senior Web Developer</p>
-                        <p class="description"><strong>Email:</strong> c.navarroza@psa.gov.ph</p>
+                        <strong class="title title-sm family-arial">Chris Navarroza</strong>
+                        <small class="description"><i>Senior Web Developer</i></small>
+                        <p class="description">c.navarroza@psa.gov.ph</p>
                     </div>
                 </section>
             </div>
@@ -60,7 +60,7 @@
                         <span class="title_sublabel">Full Stack Web Developer</span>
                     </div>
                     <div>
-                        <ul class="info_list m-0 list-style-none">
+                        <ul class="info_list pt-5 m-0 list-style-none">
                             <li class="border-b-2 border-dwhite pb-5">
                                 <span><!-- SVG ICON --></span>
                                 <p class="m-0 text--dark description description--sm">2011 Balagtas Royale Mansions, Brgy 15 Zone 2, Pasay City 1306 Metro Manila.</p>
@@ -158,7 +158,7 @@
                     </ul>
                 </section>
 
-                <section class="info_block pt-30">
+                <section class="info_block mt-20 pt-30">
                     <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">Education</h4>
                     <ul class="timeline p-0 m-0 pt-5">
                         <li class="timeline_inner grid grid-cols-3">
