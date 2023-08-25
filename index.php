@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ichiro Felipe</title>
+    <title>Melody Mayo Bongalbal</title>
     <link rel="stylesheet" href="dist/css/style.css"></link>
     <!-- <script src="dist/js/jspdf.js"></script> -->
     <script src="dist/js/jspdf.js"></script>
@@ -17,37 +17,52 @@
         <aside class="sidebar--dark cols-span-1 text--dwhite">
             <div class="sidebar_inner">
                 <div class="profile profile--round mb-30">
-                    <img src="dist/img/me.png" alt="Ichiro Felipe">
+                    <img src="dist/img/didi.png" alt="Ichiro Felipe">
                 </div>
 
                 <section class="info_bar mb-20 pb-20 border-b-floating-1 floating-el-side">
-                    <h4 class="title title-md title-regular mt-0 mb-20">About Me</h4>
-                    <p class="description lh-140">Looking for a challenge that will enable me to further develop my knowledge and skills. I'm eager to learn new techniques or strategies on how to develop a website that I could apply towards my work.</p>
+                    <h4 class="title title-md title-regular mt-0 mb-20">Objective</h4>
+                    <p class="description lh-140">Seeking a position in a dynamic, stable workplace to join an interactive 
+                        organization, enhancing my communication and customer interaction skills. Eager to apply academic 
+                        learning and further develop competencies through company experience.</p>
                 </section>
 
                 <section class="info_bar mb-20 pb-20 border-b-floating-1 floating-el-side">
                     <h4 class="title title-md title-regular mt-0 mb-20">Personal Details</h4>
-                    <div class="mb-20">
+                    <div class="mb-10">
                         <strong>Date of birth</strong>
-                        <p class="description">Nov 16 1996</p>
+                        <p class="description">Oct 07 1996</p>
                     </div>
-                    <div>
+                    <div class="mb-10">
                         <strong>Nationality</strong>
                         <p class="description">Filipino</p>
+                    </div>
+                    <div class="mb-10">
+                        <strong>Religion</strong>
+                        <p class="description">Iglesia Ni Cristo</p>
+                    </div>
+                    <div class="mb-10">
+                        <strong>Civil Status</strong>
+                        <p class="description">Single</p>
                     </div>
                 </section>
 
                 <section class="info_bar">
                     <h4 class="title title-md title-regular mt-0 mb-20">References</h4>
                     <div class="mb-20">
-                        <strong class="title title-sm family-arial">Pedion D. Octavio</strong>
-                        <small class="description"><i>ICT Faculty</i></small>
-                        <p class="description">09777604481</p>
+                        <strong class="title title-sm family-arial">Ms. Lourdes Mendoza</strong>
+                        <small class="description mb-5"><i>Chairperson, College of Tourism University of Perpetual Help System DALTA, Las Piñas City</i></small>
+                        <p class="description">0917-540-6806</p>
                     </div>
-                    <div class="mb-2">
-                        <strong class="title title-sm family-arial">Chris Navarroza</strong>
-                        <small class="description"><i>Senior Web Developer</i></small>
-                        <p class="description">c.navarroza@psa.gov.ph</p>
+                    <div class="mb-20">
+                        <strong class="title title-sm family-arial">Ms. Jazel Orbe</strong>
+                        <small class="description mb-5"><i>Manager, IO Innovative Outcomes Corp.</i></small>
+                        <p class="description">0999-991-6720</p>
+                    </div>
+                    <div class="mb-20">
+                        <strong class="title title-sm family-arial">Ms. Angel Flexie Ancero</strong>
+                        <small class="description mb-5"><i>Supervisor, IO Innovative Outcomes Corp.</i></small>
+                        <p class="description">0929-445-6179</p>
                     </div>
                 </section>
             </div>
@@ -56,23 +71,22 @@
             <div class="sidebar_inner">
                 <section class="heading grid grid-cols-2 mt-30 mb-30">
                     <div>
-                        <h1 class="title title-regular title-xl m-0 text--dark ls-2">Ichiro <br>Felipe</h1>
-                        <span class="title_sublabel">Full Stack Web Developer</span>
+                        <h1 class="title title-regular title-xl m-0 text--dark ls-2 flex"><small>MELODY MAYO<br>BONGALBAL</small></h1>
+                        <!-- <span class="title_sublabel">Full Stack Web Developer</span> -->
                     </div>
                     <div>
                         <ul class="info_list pt-5 m-0 list-style-none">
                             <li class="border-b-2 border-dwhite pb-5">
                                 <span><!-- SVG ICON --></span>
-                                <p class="m-0 text--dark description description--sm">2011 Balagtas Royale Mansions, Brgy 15 Zone 2, Pasay City 1306 Metro Manila.</p>
+                                <p class="m-0 text--dark description description--sm">1619 Balic-Balic St. Waterdam Road Sta. Rita, Olongapo City, Philippines 2200.</p>
                             </li>
                             <li class="border-b-2 border-dwhite py-5 mb-5">
                                 <span><!-- SVG ICON --></span>
-                                <p class="m-0 text--dark description description--sm">0993-347-5702</p>
+                                <p class="m-0 text--dark description description--sm">0915-131-4149</p>
                             </li>
                             <li>
                                 <span><!-- SVG ICON --></span>
-                                <p class="m-0 text--dark description description--sm">ichiro.felipe1696@gmail.com</p>
-                                <p class="m-0 text--dark description description--sm">https://github.com/ichirofelipe</p>
+                                <p class="m-0 text--dark description description--sm">melody.bongalbal@gmail.com</p>
                             </li>
                         </ul>
                     </div>
@@ -84,91 +98,105 @@
                         
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Play'n Go</strong>
-                                <p class="description text--ldark">Taguig <br>Feb 2023 - Present</p>
+                                <strong class="description title title-sm family-arial text--dark mb-5">IO Innovative Outcomes Corp.</strong>
+                                <p class="description text--ldark">Taguig <br>Jun 2020 - Mar 2021</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>Frontend Game Developer</strong>
-                                <p class="description text--ldark">Integrating animations and 2d Artworks into the game using (TypeScript/JavaScript, Adobe Animate)</p>
+                                <strong>Relationship Manager</strong>
+                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Globals</strong>
-                                <p class="description text--ldark">Makati <br>Dec 2022 - Jan 2023</p>
+                                <strong class="description title title-sm family-arial text--dark mb-5">Segara Suites</strong>
+                                <p class="description text--ldark">Subic <br>Apr 2019 - Jun 2020</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>FullStack Web Game Developer / HTML5 Game Developer</strong>
-                                <p class="description text--ldark">Creating slot games using (TypeScript, Pixi.js, LayaAir - "open-source 2D/3D engine")</p>
-                            </div>
-                        </li>
-                        <li class="timeline_inner grid grid-cols-3 mb-10">
-                            <div class="timeline_info cols-span-1">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Alpha Gaming Arcade</strong>
-                                <p class="description text--ldark">Pasay <br>June 2022 - Dec 2022</p>
-                            </div>
-                            <div class="timeline_additional cols-span-2">
-                                <strong>Full Stack Developer</strong>
-                                <p class="description text--ldark">Creating websites from scratch starting from database planning to UI/UX Development with HTML canvas animation (Node.js, native PHP, MSSQL/MYSQL, JS/TS, Pixi.js)</p>
-                                <br>
-                                <p class="description"><strong>Some of my projects here:</strong></p>
-                                <p class="description text--ldark">- Bookmark website (in my github)</p>
-                                <p class="description text--ldark">- multivendor website (in my github)</p>
-                                <p class="description text--ldark">- OMG betting game website</p>
-                                <p class="description text--ldark">- Slot Game (Ocean Story) (in my github)</p>
-                            </div>
-                        </li>
-                        <li class="timeline_inner grid grid-cols-3">
-                            <div class="timeline_info cols-span-1">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Chanz IT/ Chanz <br>Global</strong>
-                                <p class="description text--ldark">Ortigas <br>Jan 2020 - June 2022</p>
-                            </div>
-                            <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>Full Stack Developer</strong>
-                                <p class="description text--ldark">Translating designs, maintaining, fixing bugs, and adding new features to existing websites (Laravel/Wordpress, Tailwind/SCSS, Vue/Jquery, Mysql, Webpack)</p>
-                                <br>
-                                <p class="description"><strong>Some of my projects here:</strong></p>
-                                <p class="description text--ldark">- Filipinoart.ph</p>
-                                <p class="description text--ldark">- latinweekender.com</p>
-                                <p class="description text--ldark">- totaalklimaat.nl</p>
-                                <p class="description text--ldark">- lucasvanleydenfonds.nl</p>
-                                <p class="description text--ldark">- abrahamart.com</p>
+                                <strong>Guest Service Associate</strong>
+                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Firstcom <br>Solutions</strong>
-                                <p class="description text--ldark">Mar 2019 - Dec 2019</p>
+                                <strong class="description title title-sm family-arial text--dark mb-5">Segara Residencias</strong>
+                                <p class="description text--ldark">Subic <br>Feb 2019 - Apr 2019</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>Freelance Frontend Developer</strong>
-                                <p class="description text--ldark">Translating Web Designs/Wireframes into an actual working website (Opencart, CSS Bootstrap, Jquery)</p>
+                                <strong>Guest Service Associate</strong>
+                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Alorica</strong>
-                                <p class="description text--ldark">Makati <br>Jan 2016 - Sep 2016</p>
+                                <strong class="description title title-sm family-arial text--dark mb-5">Camayan Beach Resort</strong>
+                                <p class="description text--ldark">Subic <br>Jul 2018 - Jan 2019</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>TSR</strong>
-                                <p class="description text--ldark">- Helping customer solve their issues about the services we offer. (Internet, TV, Telephone)</p>
+                                <strong>Guest Service Associate</strong>
+                                <p class="description text--ldark">Work Description</p>
+                            </div>
+                        </li>
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5">The Lighthouse Marina Resort</strong>
+                                <p class="description text--ldark">Subic <br>Apr 2018 - May 2018</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Resort Host</strong>
+                                <p class="description text--ldark">Work Description</p>
+                            </div>
+                        </li>
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5">Le Charme Suites</strong>
+                                <p class="description text--ldark">Subic <br>Jan 2018 - Apr 2018</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Front Office Associate</strong>
+                                <p class="description text--ldark">Work Description</p>
+                            </div>
+                        </li>
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5">Subic Grand Harbour Hotel</strong>
+                                <p class="description text--ldark">Subic <br>Apr 2017 - Oct 2017</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Front Office Associate</strong>
+                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                     </ul>
                 </section>
 
-                <section class="info_block mt-20 pt-30">
+                <section class="info_block mt-20 pt-20">
                     <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">Education</h4>
                     <ul class="timeline p-0 m-0 pt-5">
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <p class="title title-sm family-arial text--dark mb-5 mt-0">STI College Novaliches</p>
-                                <p class="description text--ldark">Quezon City <br>2019</p>
+                                <strong class="description title title-sm family-arial text--dark mb-5">University of Perpetual Help System DALTA</strong>
+                                <p class="description text--ldark">Las Piñas <br>2015-2016</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>Associate of Applied Science</strong>
-                                <p class="description text--ldark">Bachelor of Science in Computer Science</p>
+                                <strong>Bachelor of Science in Tourism</strong>
+                            </div>
+                        </li>
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5">Olongapo City National High School</strong>
+                                <p class="description text--ldark">Olongapo <br>2012</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Secondary Education</strong>
+                            </div>
+                        </li>
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5">Sta. Rita Elementary School</strong>
+                                <p class="description text--ldark">Olongapo <br>2008</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Primary Education</strong>
                             </div>
                         </li>
                     </ul>
@@ -178,43 +206,27 @@
                     <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">Skills</h4>
                     <div class="grid grid-cols-2 gap-x-20">
                         <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">PHP</p>
+                            <p class="title title-sm family-arial text--dark mb-5">NIHONGGO</p>
+                            <div class="progress-bar progress-bar--25"></div>
+                        </div>
+                        <div class="mb-5">
+                            <p class="title title-sm family-arial text--dark mb-5">HANGUL</p>
+                            <div class="progress-bar progress-bar--25"></div>
+                        </div>
+                        <div class="mb-5">
+                            <p class="title title-sm family-arial text--dark mb-5">FILIPINO</p>
                             <div class="progress-bar progress-bar--100"></div>
                         </div>
                         <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">MYSql/MSSQL</p>
+                            <p class="title title-sm family-arial text--dark mb-5">ENGLISH</p>
                             <div class="progress-bar progress-bar--100"></div>
                         </div>
                         <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">CSS/SCSS/BOOTSTRAP/TAILWIND</p>
+                            <p class="title title-sm family-arial text--dark mb-5">COMMUNICATION SKILLS</p>
                             <div class="progress-bar progress-bar--100"></div>
                         </div>
                         <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">DESIGN TO ACTUAL WEB</p>
-                            <div class="progress-bar progress-bar--100"></div>
-                        </div>
-                        <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">LARAVEL</p>
-                            <div class="progress-bar progress-bar--75"></div>
-                        </div>
-                        <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">WORDPRESS</p>
-                            <div class="progress-bar progress-bar--75"></div>
-                        </div>
-                        <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">VUE</p>
-                            <div class="progress-bar progress-bar--75"></div>
-                        </div>
-                        <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">NODE</p>
-                            <div class="progress-bar progress-bar--75"></div>
-                        </div>
-                        <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">TS/JS/Jquery</p>
-                            <div class="progress-bar progress-bar--100"></div>
-                        </div>
-                        <div class="mb-5">
-                            <p class="title title-sm family-arial text--dark mb-5">PIXI.JS</p>
+                            <p class="title title-sm family-arial text--dark mb-5">MS TOOLS</p>
                             <div class="progress-bar progress-bar--75"></div>
                         </div>
                     </div>
@@ -222,16 +234,111 @@
 
 
                 <section class="info_block pt-30">
-                    <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">Internship</h4>
+                    <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">AFFILIATION / ORGANIZATION</h4>
                     <ul class="timeline p-0 m-0 pt-5">
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <p class="description title title-sm family-arial text--dark mb-5">FY Designs</p>
-                                <p class="description text--ldark">Quezon City <br>Apr 2018 - May 2018</p>
+                                <strong class="description title title-sm family-arial text--dark mb-5"><small>Convention and Events Management Class</small></strong>
+                                <p class="description text--ldark">2015 - 2016</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
-                                <strong>Frontend Developer</strong>
-                                <p class="description text--ldark">- Assisted on fixing current website layout and responsiveness</p>
+                                <strong>Secretary of Program Committee</strong>
+                            </div>
+                        </li>
+                    </ul>
+                </section>
+
+                <section class="info_block mt-10 pt-30">
+                    <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">TRAININGS / SEMINARS</h4>
+                    <ul class="timeline p-0 m-0 pt-5">
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5"><small>Wyndham Glacier Canyon (Mastercorp Inc.)</small></strong>
+                                <p class="description text--ldark">WI 53913, U.S.A <br>Mar 2015 - Jul 2015</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>On-the-Job-Training</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5"><small>Ryuugaku Program</small></strong>
+                                <p class="description text--ldark">Jan 2015 - Dec 2015</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Student Tour Guide</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5"><small>AMADEUS E-Learning</small></strong>
+                                <p class="description text--ldark">Oct 2014</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Reservation Essentials, Trainee</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>A Voyage of Discovery and Surprises: Learning from Star Cruises</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Tourism and Hotel Management Beyond Compare: A Resorts World Experience</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <p class="description text--ldark">Philippine Plaza Hotel <br>Jul 2014</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Creating a Home in the Sky: The Art and Science of Flying with Philippine Airlines</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <p class="description text--ldark">Las Piñas <br>Jan 2014 - Feb 2014</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>JMRS Tours And Travel, Trainee</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <p class="description text--ldark">Muntinlupa <br>Aug 2013</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Acacia Convention: The Road Map to Success</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <p class="description text--ldark">Las Piñas <br>Feb 2013</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>A Talk to Remember: A Guide Towards Building a Career</strong>
+                            </div>
+                        </li>
+
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
+                                <p class="description text--ldark">Ilocandia Resort Hotel <br>Sep 2012</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Home of Great Leaders and Rich Cultural Landmarks</strong>
                             </div>
                         </li>
                     </ul>
@@ -246,7 +353,7 @@
             const element = document.getElementById('my_cv');
             var opt = {
             margin:       0,
-            filename:     'ichiro_resume.pdf',
+            filename:     'melody_resume.pdf',
             image:        { type: 'jpeg', quality: 0.98 },
             html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 530, y: 0},
             jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }

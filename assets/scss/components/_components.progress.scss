@@ -4,6 +4,33 @@
         width: 100% !important;
         background: lighten(map-get($colors, 'ldark'), 20%);
         position: relative;
+
+        &--25 {
+            &:before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 25%;
+                background: map-get($colors, 'dark');
+                z-index: 1;
+            }
+        }
+
+        &--50 {
+            &:before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 50%;
+                background: map-get($colors, 'dark');
+                z-index: 1;
+            }
+        }
+
         &--75 {
             &:before {
                 content: '';
@@ -16,6 +43,7 @@
                 z-index: 1;
             }
         }
+        
         &--100 {
             &:before {
                 content: '';

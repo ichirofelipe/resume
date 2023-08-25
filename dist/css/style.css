@@ -299,6 +299,26 @@ body, html {
   background: #b4b4b5;
   position: relative;
 }
+.progress-bar--25:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 25%;
+  background: #434244;
+  z-index: 1;
+}
+.progress-bar--50:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 50%;
+  background: #434244;
+  z-index: 1;
+}
 .progress-bar--75:before {
   content: "";
   position: absolute;
@@ -326,6 +346,10 @@ body, html {
 
 .info_bar {
   color: #ccc;
+}
+
+.flex {
+  display: flex;
 }
 
 /*# sourceMappingURL=style.css.map */
