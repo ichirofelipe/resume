@@ -15,7 +15,7 @@
 <body>
     <section id="my_cv" class="my_cv grid grid-cols-3">
         <aside class="sidebar--dark cols-span-1 text--dwhite">
-            <div class="sidebar_inner">
+            <div class="px-30 pt-20">
                 <div class="profile profile--round mb-30">
                     <img src="dist/img/didi.png" alt="Ichiro Felipe">
                 </div>
@@ -50,26 +50,26 @@
                 <section class="info_bar">
                     <h4 class="title title-md title-regular mt-0 mb-20">References</h4>
                     <div class="mb-20">
-                        <strong class="title title-sm family-arial">Ms. Lourdes Mendoza</strong>
-                        <small class="description mb-5"><i>Chairperson, College of Tourism University of Perpetual Help System DALTA, Las Piñas City</i></small>
-                        <p class="description">0917-540-6806</p>
-                    </div>
-                    <div class="mb-20">
-                        <strong class="title title-sm family-arial">Ms. Jazel Orbe</strong>
-                        <small class="description mb-5"><i>Manager, IO Innovative Outcomes Corp.</i></small>
-                        <p class="description">0999-991-6720</p>
+                        <strong class="title title-sm family-arial">Ms. Melda Mauricio</strong>
+                        <small class="description mb-5"><i>Operations Manager, Maharlika Cargo Services Inc.</i></small>
+                        <p class="description">0945-493-7994</p>
                     </div>
                     <div class="mb-20">
                         <strong class="title title-sm family-arial">Ms. Angel Flexie Ancero</strong>
                         <small class="description mb-5"><i>Supervisor, IO Innovative Outcomes Corp.</i></small>
                         <p class="description">0929-445-6179</p>
                     </div>
+                    <div class="mb-20">
+                        <strong class="title title-sm family-arial">Ms. Lourdes Mendoza</strong>
+                        <small class="description mb-5"><i>Chairperson, College of Tourism University of Perpetual Help System DALTA, Las Piñas City</i></small>
+                        <p class="description">0917-540-6806</p>
+                    </div>
                 </section>
             </div>
         </aside>
         <aside class="sidebar--light cols-span-2">
             <div class="sidebar_inner">
-                <section class="heading grid grid-cols-2 mt-30 mb-30">
+                <section class="heading grid grid-cols-2 mt-50 mb-30">
                     <div>
                         <h1 class="title title-regular title-xl m-0 text--dark ls-2 flex"><small>MELODY MAYO<br>BONGALBAL</small></h1>
                         <!-- <span class="title_sublabel">Full Stack Web Developer</span> -->
@@ -78,7 +78,7 @@
                         <ul class="info_list pt-5 m-0 list-style-none">
                             <li class="border-b-2 border-dwhite pb-5">
                                 <span><!-- SVG ICON --></span>
-                                <p class="m-0 text--dark description description--sm">1619 Balic-Balic St. Waterdam Road Sta. Rita, Olongapo City, Philippines 2200.</p>
+                                <p class="m-0 text--dark description description--sm">Unit 605 Burgundy Westbay Tower Ocampo St. Malate, Manila Philippines.</p>
                             </li>
                             <li class="border-b-2 border-dwhite py-5 mb-5">
                                 <span><!-- SVG ICON --></span>
@@ -98,12 +98,20 @@
                         
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
+                                <strong class="description title title-sm family-arial text--dark mb-5">Maharlika Cargo Services Inc.</strong>
+                                <p class="description text--ldark">Manila <br>Aug 2021 - Sept 2022</p>
+                            </div>
+                            <div class="timeline_additional cols-span-2 pb-20">
+                                <strong>Admin Accounting</strong>
+                            </div>
+                        </li>
+                        <li class="timeline_inner grid grid-cols-3">
+                            <div class="timeline_info cols-span-1 pb-20">
                                 <strong class="description title title-sm family-arial text--dark mb-5">IO Innovative Outcomes Corp.</strong>
-                                <p class="description text--ldark">Taguig <br>Jun 2020 - Mar 2021</p>
+                                <p class="description text--ldark">Las Piñas <br>Jun 2020 - Aug 2021</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Relationship Manager</strong>
-                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
@@ -113,7 +121,6 @@
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Guest Service Associate</strong>
-                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
@@ -123,7 +130,6 @@
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Guest Service Associate</strong>
-                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
@@ -133,7 +139,6 @@
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Guest Service Associate</strong>
-                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
@@ -143,7 +148,6 @@
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Resort Host</strong>
-                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
@@ -153,7 +157,6 @@
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Front Office Associate</strong>
-                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                         <li class="timeline_inner grid grid-cols-3">
@@ -163,13 +166,12 @@
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Front Office Associate</strong>
-                                <p class="description text--ldark">Work Description</p>
                             </div>
                         </li>
                     </ul>
                 </section>
 
-                <section class="info_block mt-20 pt-20">
+                <section class="info_block mt-50 pt-30">
                     <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">Education</h4>
                     <ul class="timeline p-0 m-0 pt-5">
                         <li class="timeline_inner grid grid-cols-3">
@@ -335,7 +337,7 @@
 
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <p class="description text--ldark">Ilocandia Resort Hotel <br>Sep 2012</p>
+                                <p class="description text--ldark">Ilocandia Resort Hotel <br>Sept 2012</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Home of Great Leaders and Rich Cultural Landmarks</strong>
@@ -355,7 +357,7 @@
             margin:       0,
             filename:     'melody_resume.pdf',
             image:        { type: 'jpeg', quality: 0.98 },
-            html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 530, y: 0},
+            html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 445, y: 0},
             jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
             };
 
