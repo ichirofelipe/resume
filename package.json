@@ -9,5 +9,8 @@
     "watch": "sass --watch assets/scss/style.scss dist/css/style.css"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.66.1"
+  }
 }

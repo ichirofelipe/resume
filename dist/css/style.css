@@ -292,6 +292,9 @@ body, html {
   border-radius: 100%;
   transform: translate(-50%, 0);
 }
+.timeline_info {
+  padding-right: 15px;
+}
 
 .progress-bar {
   height: 4px !important;
@@ -326,6 +329,14 @@ body, html {
 
 .info_bar {
   color: #ccc;
+}
+
+.flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
 }
 
 /*# sourceMappingURL=style.css.map */
