@@ -251,8 +251,8 @@ body, html {
   position: relative;
 }
 .border-b-floating-1.floating-el-side:after {
-  right: -40px;
-  width: calc(100% + 40px);
+  right: -30px;
+  width: calc(100% + 30px);
 }
 .border-b-floating-1:after {
   content: "";
@@ -267,8 +267,8 @@ body, html {
   position: relative;
 }
 .border-b-floating-2.floating-el-side:after {
-  right: -40px;
-  width: calc(100% + 40px);
+  right: -30px;
+  width: calc(100% + 30px);
 }
 .border-b-floating-2:after {
   content: "";

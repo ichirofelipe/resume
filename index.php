@@ -17,7 +17,7 @@
         <aside class="sidebar--dark cols-span-1 text--dwhite">
             <div class="px-30 pt-20">
                 <div class="profile profile--round mb-30">
-                    <img src="dist/img/didi.png" alt="Ichiro Felipe">
+                    <img src="dist/img/melo.png" alt="Ichiro Felipe">
                 </div>
 
                 <section class="info_bar mb-20 pb-20 border-b-floating-1 floating-el-side">
@@ -51,7 +51,7 @@
                     <h4 class="title title-md title-regular mt-0 mb-20">References</h4>
                     <div class="mb-20">
                         <strong class="title title-sm family-arial">Ms. Melda Mauricio</strong>
-                        <small class="description mb-5"><i>Operations Manager, Maharlika Cargo Services Inc.</i></small>
+                        <small class="description mb-5"><i>Operations Manager, Maharlika Cargo Specialists Inc.</i></small>
                         <p class="description">0945-493-7994</p>
                     </div>
                     <div class="mb-20">
@@ -86,7 +86,7 @@
                             </li>
                             <li>
                                 <span><!-- SVG ICON --></span>
-                                <p class="m-0 text--dark description description--sm">melody.bongalbal@gmail.com</p>
+                                <p class="m-0 text--dark description description--sm">bongalbalmelody@gmail.com</p>
                             </li>
                         </ul>
                     </div>
@@ -98,7 +98,7 @@
                         
                         <li class="timeline_inner grid grid-cols-3">
                             <div class="timeline_info cols-span-1 pb-20">
-                                <strong class="description title title-sm family-arial text--dark mb-5">Maharlika Cargo Services Inc.</strong>
+                                <strong class="description title title-sm family-arial text--dark mb-5">Maharlika Cargo Specialists Inc.</strong>
                                 <p class="description text--ldark">Manila <br>Aug 2021 - Sept 2022</p>
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
@@ -235,7 +235,7 @@
                 </section>
 
 
-                <section class="info_block pt-30">
+                <section class="info_block pt-30 mt-10">
                     <h4 class="title title-md title-regular mt-0 mb-10 pb-5 border-b-floating-2 no-exceed">AFFILIATION / ORGANIZATION</h4>
                     <ul class="timeline p-0 m-0 pt-5">
                         <li class="timeline_inner grid grid-cols-3">
@@ -357,7 +357,7 @@
             margin:       0,
             filename:     'melody_resume.pdf',
             image:        { type: 'jpeg', quality: 0.98 },
-            html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 445, y: 0},
+            html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 530, y: 0},
             jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
             };
 
