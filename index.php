@@ -22,10 +22,10 @@
 
                 <section class="info_bar mb-20 pb-20 border-b-floating-1 floating-el-side">
                     <h4 class="title title-md title-regular mt-0 mb-20">About Me</h4>
-                    <p class="description lh-140">Looking for a challenge that will enable me to further develop my knowledge and skills. I'm eager to learn new techniques or strategies on how to develop a website that I could apply towards my work.</p>
+                    <p class="description lh-140">I'm currently seeking a challenge that will help me expand my skills. I'm eager to explore new techniques and strategies that I can apply directly to my work. Learning and growing in this field excite me, and I'm ready to take on new projects that allow me to push my boundaries and make meaningful contributions.</p>
                 </section>
 
-                <section class="info_bar mb-20 pb-20 border-b-floating-1 floating-el-side">
+                <section class="info_bar mb-20 pb-20 floating-el-side">
                     <h4 class="title title-md title-regular mt-0 mb-20">Personal Details</h4>
                     <div class="mb-20">
                         <strong>Date of birth</strong>
@@ -34,26 +34,6 @@
                     <div>
                         <strong>Nationality</strong>
                         <p class="description">Filipino</p>
-                    </div>
-                </section>
-
-                <section class="info_bar">
-                    <h4 class="title title-md title-regular mt-0 mb-20">References</h4>
-                    <div class="mb-20">
-                        <strong class="title title-sm family-arial">Pedion D. Octavio</strong>
-                        <small class="description mb-5"><i><strong>ICT Faculty</strong></i></small>
-                        <p class="description flex gap-x-5 align-items-center">
-                            <svg class="mr-5" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#cccccc}</style><path d="M16 64C16 28.7 44.7 0 80 0H304c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H80c-35.3 0-64-28.7-64-64V64zM224 448a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM304 64H80V384H304V64z"/></svg>
-                            09777604481
-                        </p>
-                    </div>
-                    <div class="mb-2">
-                        <strong class="title title-sm family-arial">Chris Navarroza</strong>
-                        <small class="description mb-5"><i><strong>Senior Web Developer</strong></i></small>
-                        <p class="description flex gap-x-5 align-items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#cccccc}</style><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>
-                            c.navarroza@psa.gov.ph
-                        </p>
                     </div>
                 </section>
             </div>
@@ -79,7 +59,6 @@
                                 <span><!-- SVG ICON --></span>
                                 <p class="m-0 text--dark description description--sm">ichiro.felipe1696@gmail.com</p>
                                 <p class="m-0 text--dark description description--sm">https://github.com/ichirofelipe</p>
-                                <p class="m-0 text--dark description description--sm">https://ichirofelipe.x10.mx</p>
                             </li>
                         </ul>
                     </div>
@@ -238,7 +217,7 @@
                             </div>
                             <div class="timeline_additional cols-span-2 pb-20">
                                 <strong>Frontend Developer</strong>
-                                <p class="description text--ldark">- Assisted on fixing current website layout and responsiveness</p>
+                                <p class="description text--ldark">- I played a key role in improving the layout and responsiveness of the current website.</p>
                             </div>
                         </li>
                     </ul>
