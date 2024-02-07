@@ -234,7 +234,7 @@
             margin:       0,
             filename:     'ichiro_resume.pdf',
             image:        { type: 'jpeg', quality: 0.98 },
-            html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 526, y: 0},
+            html2canvas:  { scale: 1, scrollY: 0, scrollX: 0, x: 528, y: 0},
             jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
             };
 
