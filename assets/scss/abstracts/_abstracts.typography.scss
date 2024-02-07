@@ -4,35 +4,7 @@
 .title{
     text-transform: uppercase;
     font-family: 'Fira Sans';
-    
-    &-thin{
-        font-weight: 100;
-    }
-    &-xlight{
-        font-weight: 200;
-    }
-    &-light{
-        font-weight: 300;
-    }
-    &-regular{
-        font-weight: 400;
-    }
-    &-medium{
-        font-weight: 500;
-    }
 
-    &-sm{
-        font-size: 14px;
-    }
-    &-nm{
-        font-size: 16px;
-    }
-    &-md{
-        font-size: 19px;
-    }
-    &-xl{
-        font-size: 40px;
-    }
     &_sublabel{
         text-transform: uppercase;
         color: #808183;
@@ -52,6 +24,41 @@
     &--dwhite{
         color: map-get($colors, 'dwhite');
     }
+
+    &-thin{
+        font-weight: 100;
+    }
+    &-xlight{
+        font-weight: 200;
+    }
+    &-light{
+        font-weight: 300;
+    }
+    &-regular{
+        font-weight: 400;
+    }
+    &-medium{
+        font-weight: 500;
+    }
+    &-thick{
+        font-weight: 600;
+    }
+
+    &-sm{
+        font-size: 14px;
+    }
+    &-nm{
+        font-size: 16px;
+    }
+    &-md{
+        font-size: 19px;
+    }
+    &-lg{
+        font-size: 24px;
+    }
+    &-xl{
+        font-size: 50px;
+    }
 }
 
 .description{
@@ -70,7 +77,22 @@
 }
 .ls{
     &-2{
-        letter-spacing: 2px !important;
+        letter-spacing: 2px;
+    }
+    &-5{
+        letter-spacing: 5px;
+    }
+    &-8{
+        letter-spacing: 8px;
+    }
+    &-9{
+        letter-spacing: 9px;
+    }
+}
+
+.lh {
+    &-7 {
+        line-height: 170%;
     }
 }
 

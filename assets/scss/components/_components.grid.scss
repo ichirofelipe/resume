@@ -11,6 +11,62 @@
             grid-template-columns: repeat(3, minmax(0, 1fr));
         }
     }
+
+    &--bordered {
+        $cornerSize: 8px;
+
+        margin-bottom: $cornerSize/2;
+
+        & > * {
+            border-bottom: 1px solid map-get($colors, "dark");
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+        & > *:not(:first-child) {
+            border-left: 1px solid map-get($colors, "dark");
+            padding: 30px;
+            position: relative;
+
+            &:not(.border-b-none):after {
+                content: '';
+                width: $cornerSize;
+                height: $cornerSize;
+                border-radius: 100%;
+                border: 1px solid lighten(map-get($colors, "dark"), 40%);
+                background-color: map-get($colors, "white");
+                bottom: 0;
+                left: 0;
+                transform: translate(-50%, 50%);
+                position: absolute;
+                z-index: 1;
+            }
+        }
+
+        &-topdown {
+            & > * {
+                padding: 0px 10px 30px 0;
+            }
+            & > *:not(:first-child) {
+                border-top: 1px solid map-get($colors, "dark");
+                position: relative;
+                padding-top: 30px;
+    
+                &:after {
+                    content: '';
+                    width: $cornerSize;
+                    height: $cornerSize;
+                    border-radius: 100%;
+                    border: 1px solid lighten(map-get($colors, "dark"), 40%);
+                    background-color: map-get($colors, "white");
+                    top: 0;
+                    right: 0;
+                    transform: translate(50%, -50%);
+                    position: absolute;
+                    z-index: 1;
+                }
+            }
+        }
+    }
 }
 
 .cols {

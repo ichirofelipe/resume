@@ -1,17 +1,31 @@
+$adjustment: 40px;
+
 .profile{
-    width: 100%;
-    height: 0;
-    padding-bottom: 100%;
     overflow: hidden;
-    object-fit: cover;
     position: relative;
     border-radius: 100%;
+    max-width: 160px;
+    aspect-ratio: 50/50;
+    right: $adjustment / 4;
+    bottom: -$adjustment * 1.5;
 
     img{
-        position: absolute;
-        left: 0;
-        top: 0;
         width: 100%;
-        height: 100%;
+        height: auto;
+    }
+
+    &-name {
+        height: auto;
+        margin: auto 0;
+    }
+
+    &-banner {
+        width: 100%;
+        background-color: map-get($colors, "dwhite");
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: $adjustment + $adjustment/2;
+        padding: $adjustment / 2 $adjustment;
+        margin-top: $adjustment;
     }
 }
