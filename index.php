@@ -29,7 +29,7 @@
             <section class="grid grid-cols-3 grid--bordered">
                 <aside class="pt-0 cols-span-1">
                     <h3 class="title text-lg text-medium mt-0 mb-30 text--dark ls-5">CONTACT</h3>
-                    <ul>
+                    <ul class="pr-10">
                         <li class="flex text--dark mb-10">
                             <img class="icon mr-15" src="dist/img/phone.svg" alt="phone">
                             0993-347-5702
@@ -38,10 +38,10 @@
                             <img class="icon mr-15" src="dist/img/mail.svg" alt="mail">
                             ichiro.felipe1696@gmail.com
                         </li>
-                        <li class="flex text--dark mb-10">
+                        <!-- <li class="flex text--dark mb-10">
                             <img class="icon mr-15" src="dist/img/globe.svg" alt="globe">
                             https://ichirofelipe.x10.mx
-                        </li>
+                        </li> -->
                         <li class="flex text--dark mb-10">
                             <img class="icon mr-15" src="dist/img/pin.svg" alt="pin">
                             #3518 Tower 3 Grass Residences Quezon City
@@ -179,10 +179,14 @@
                                     <img height ="6" class="mt-5 mr-15" src="dist/img/dot.svg" alt="dot">
                                     Developing e-commerce websites by integrating Laravel and Vue.js.
                                 </li>
+                                <li class="flex text--dark mb-10">
+                                    <img height ="6" class="mt-5 mr-15" src="dist/img/dot.svg" alt="dot">
+                                    Transforming web designs and wireframes into fully functional websites from scratch.
+                                </li>
                             </ul>
                         </div>
 
-                        <div class="mt-40 pt-30">
+                        <div class="mt-40">
                             <h4 class="title text-nm text-medium mb-10 text--dark ls-2">Freelance Frontend Web Developer</h4>
                             <h5 class="text-sm text-medium mb-5 text--dark">FIRSTCOM SOLUTIONS</h5>
                             <h5 class="text-sm text-medium text--dark">Mar 2019 - Dec 2019</h5>
